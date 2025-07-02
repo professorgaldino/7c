@@ -43,10 +43,6 @@
     "nome": "GIOVANA REIS DE OLIVEIRA",
     "foto": "GIOVANA REIS DE OLIVEIRA.jpg"
   },
-  "13": {
-    "nome": "GUILHERME CAMPOS DE SOUZA",
-    "foto": "GUILHERME CAMPOS DE SOUZA.jpg"
-  },
   "14": {
     "nome": "GUILHERME IBRAHIM DE OLIVEIRA SOARES",
     "foto": "GUILHERME IBRAHIM DE OLIVEIRA SOARES.jpg"
@@ -55,17 +51,9 @@
     "nome": "HEITOR MIGUEL DIAS BRUZINGA",
     "foto": "HEITOR MIGUEL DIAS BRUZINGA.jpg"
   },
-  "16": {
-    "nome": "HENRY GABRIEL DE TOLEDO CONCEIÇÃO",
-    "foto": "HENRY GABRIEL DE TOLEDO CONCEIÇÃO.jpg"
-  },
   "17": {
     "nome": "ISABELLY EDUARDA TURBIANI VIEIRA",
     "foto": "ISABELLY EDUARDA TURBIANI VIEIRA.jpg"
-  },
-  "18": {
-    "nome": "ISAQUE MASSANOBU DE SOUZA SILVA",
-    "foto": "ISAQUE MASSANOBU DE SOUZA SILVA.jpg"
   },
   "19": {
     "nome": "JOÃO LUCAS FRAZÃO DOS SANTOS",
@@ -111,17 +99,9 @@
     "nome": "NICOLAS MIGUEL TOME DOMINGOS",
     "foto": "NICOLAS MIGUEL TOME DOMINGOS.jpg"
   },
-  "33": {
-    "nome": "RYAN SOUZA ROCHA",
-    "foto": "RYAN SOUZA ROCHA.jpg"
-  },
   "34": {
     "nome": "SAMUEL FELIPE PEREIRA SOUSA SANTOS",
     "foto": "SAMUEL FELIPE PEREIRA SOUSA SANTOS.jpg"
-  },
-  "35": {
-    "nome": "SAMUEL HANAEL MAXIMILIANO",
-    "foto": "SAMUEL HANAEL MAXIMILIANO.jpg"
   },
   "36": {
     "nome": "YASMIM MANARA SILVESTRE",
@@ -131,38 +111,30 @@
     "nome": "YASMIM RAMOS FERREIRA DE SOUZA",
     "foto": "YASMIM RAMOS FERREIRA DE SOUZA.jpg"
   },
-  "38": {
-    "nome": "MICAELY VITÓRIA VILELA DA SILVA",
-    "foto": "MICAELY VITÓRIA VILELA DA SILVA.jpg"
-  },
-  "39": {
-    "nome": "MARYA FERNANDA DOS SANTOS CAMARGO SEBASTIÃO",
-    "foto": "MARYA FERNANDA DOS SANTOS CAMARGO SEBASTIÃO.jpg"
-  }
   "40": {
     "nome": "ELOAH CRISTINY ANDRADE DE SOUZA",
     "foto": "ELOAH CRISTINY ANDRADE DE SOUZA.jpg"
-  }
+  },
   "42": {
     "nome": "NATAN ALVES RAMOS DE SOUZA",
     "foto": "NATAN ALVES RAMOS DE SOUZA.jpg"
-  }
+  },
   "43": {
     "nome": "DERIK MAYRO BUENO",
     "foto": "DERIK MAYRO BUENO.jpg"
-  }
+  },
   "44": {
     "nome": "HÉLLEN REGINA PINHEIRO TAVARES",
     "foto": "HÉLLEN REGINA PINHEIRO TAVARES.jpg"
-  }
+  },
   "45": {
     "nome": "BIANCA VITORIA GONZAGA DE OLIVEIRA",
     "foto": "BIANCA VITORIA GONZAGA DE OLIVEIRA.jpg"
-  }
+  },
   "46": {
     "nome": "ANA RAFAELA DA SILVA",
     "foto": "ANA RAFAELA DA SILVA.jpg"
-  }
+  },
   "47": {
     "nome": "WALYSSON MIGUEL VALIM",
     "foto": "WALYSSON MIGUEL VALIM.jpg"
